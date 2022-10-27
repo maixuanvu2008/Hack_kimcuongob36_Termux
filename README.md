@@ -55,6 +55,11 @@ pkg install php 
 pkg install python -
 
 ```
+
+4 - nhấn vào link bên dưới để tải file nha
+
+- [file](https://drive.google.com/file/d/1iEXVTpLqEq531N--oi2qk5e-aoBqMs0z/view?usp=drivesdk)
+
 4 - Song rồi Sao Chép link này vào Termux, để chạy bản hack nha🥰
 
 ```bash
@@ -70,7 +75,6 @@ php hackkcob36.php
 6 - Enjoy!
 
 
-- [file](https://drive.google.com/file/d/1iEXVTpLqEq531N--oi2qk5e-aoBqMs0z/view?usp=drivesdk)
 
 ## Author
 

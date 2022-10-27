@@ -60,7 +60,7 @@ pkg install python -
 
 - [file](https://drive.google.com/file/d/1iEXVTpLqEq531N--oi2qk5e-aoBqMs0z/view?usp=drivesdk)
 
-4 - Song rồi Sao Chép link này vào Termux, để chạy bản hack nha🥰
+5 - Song rồi Sao Chép link này vào Termux, để chạy bản hack nha🥰
 
 ```bash
 cd /sdcard/download
@@ -68,12 +68,17 @@ ls
 php hackkcob36.php
 
 ```
-- Mk tool free :hackffob36.1.1
-5 - Wait for install!
+6 - Mk tool free 
+
+```bash
+hackffob36.1.1
+
+```
+7 - Wait for install!
  
-6 - Choose Source you want to use! 
+8 - Choose Source you want to use! 
  
-7 - Enjoy!
+9 - Enjoy!
 
 
 

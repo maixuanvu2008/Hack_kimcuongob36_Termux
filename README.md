@@ -68,11 +68,12 @@ ls
 php hackkcob36.php
 
 ```
-4 - Wait for install!
+- Mk tool free :hackffob36.1.1
+5 - Wait for install!
  
-5 - Choose Source you want to use! 
+6 - Choose Source you want to use! 
  
-6 - Enjoy!
+7 - Enjoy!
 
 
 

@@ -1,0 +1,674 @@
+                    GIẤY PHÉP CÔNG CỘNG GNU
+                       Phiên bản 3, ngày 26 tháng 9 năm 2008
+
+ Copyright (C) 2008 Free Software Foundation, Inc. <https://fsf.org/>
+ Mọi người đều được phép sao chép và phân phối các bản sao nguyên văn
+ của tài liệu cấp phép này, nhưng không được phép thay đổi nó.
+
+                            Mở đầu
+
+  Giấy phép Công cộng GNU là một giấy phép copyleft miễn phí dành cho
+phần mềm và các loại công trình khác.
+
+  Giấy phép cho hầu hết phần mềm và các công việc thực tế khác được thiết kế
+tước quyền tự do chia sẻ và thay đổi tác phẩm của bạn. Ngược lại,
+Giấy phép Công cộng GNU nhằm đảm bảo quyền tự do của bạn
+chia sẻ và thay đổi tất cả các phiên bản của chương trình - để đảm bảo chương trình đó vẫn miễn phí
+phần mềm cho tất cả người dùng của nó. Chúng tôi, Tổ chức Phần mềm Miễn phí, sử dụng
+Giấy phép Công cộng GNU cho hầu hết các phần mềm của chúng tôi; nó cũng áp dụng cho
+bất kỳ tác phẩm nào khác được phát hành theo cách này bởi các tác giả của nó. Bạn có thể áp dụng nó cho
+các chương trình của bạn cũng vậy.
+
+  Khi chúng ta nói đến phần mềm miễn phí, chúng ta đang đề cập đến tự do, không phải
+giá bán. Giấy phép Công cộng Chung của chúng tôi được thiết kế để đảm bảo rằng bạn
+có quyền tự do phân phối các bản sao của phần mềm miễn phí (và tính phí
+chúng nếu bạn muốn), rằng bạn nhận được mã nguồn hoặc có thể lấy nó nếu bạn
+muốn nó, rằng bạn có thể thay đổi phần mềm hoặc sử dụng các phần của nó trong
+chương trình miễn phí và bạn biết rằng bạn có thể làm những điều này.
+
+  Để bảo vệ quyền của bạn, chúng tôi cần ngăn người khác từ chối bạn
+các quyền này hoặc yêu cầu bạn từ bỏ các quyền. Do đó, bạn có
+các trách nhiệm nhất định nếu bạn phân phối các bản sao của phần mềm hoặc nếu
+bạn sửa đổi nó: trách nhiệm tôn trọng tự do của người khác.
+
+  Ví dụ: nếu bạn phân phối các bản sao của một chương trình như vậy, liệu
+miễn phí hoặc có tính phí, bạn phải chuyển cho người nhận như nhau
+quyền tự do mà bạn nhận được. Bạn phải đảm bảo rằng họ cũng nhận được
+hoặc có thể lấy mã nguồn. Và bạn phải cho họ thấy những điều khoản này để họ
+biết quyền của họ.
+
+  Các nhà phát triển sử dụng GNU GPL bảo vệ quyền của bạn bằng hai bước:
+(1) xác nhận bản quyền trên phần mềm và (2) cung cấp cho bạn Giấy phép này
+cấp cho bạn quyền hợp pháp để sao chép, phân phối và / hoặc sửa đổi nó.
+
+  Để bảo vệ nhà phát triển và tác giả, GPL giải thích rõ ràng
+rằng không có bảo hành cho phần mềm miễn phí này. Đối với cả người dùng 'và
+vì lợi ích của tác giả, GPL yêu cầu các phiên bản sửa đổi phải được đánh dấu là
+đã thay đổi, để các vấn đề của họ sẽ không bị quy nhầm là
+tác giả của các phiên bản trước.
+
+  Một số thiết bị được thiết kế để từ chối người dùng truy cập để cài đặt hoặc chạy
+các phiên bản sửa đổi của phần mềm bên trong chúng, mặc dù nhà sản xuất
+có thể làm như vậy. Điều này về cơ bản không phù hợp với mục đích
+bảo vệ quyền tự do thay đổi phần mềm của người dùng. Hệ thống
+mô hình lạm dụng như vậy xảy ra trong lĩnh vực sản phẩm dành cho cá nhân
+sử dụng, chính xác là nơi không thể chấp nhận được. Do đó, chúng tôi
+đã thiết kế phiên bản GPL này để cấm hành vi
+Mỹ phẩm. Nếu những vấn đề như vậy về cơ bản phát sinh trong các miền khác, chúng tôi
+sẵn sàng mở rộng quy định này cho các miền đó trong các phiên bản sau
+của GPL, nếu cần để bảo vệ quyền tự do của người dùng.
+
+  Cuối cùng, mọi chương trình luôn bị đe dọa bởi các bằng sáng chế phần mềm.
+Các quốc gia không nên cho phép các bằng sáng chế hạn chế việc phát triển và sử dụng
+phần mềm trên máy tính đa năng, nhưng trong những phần mềm đó, chúng tôi muốn
+tránh nguy cơ đặc biệt mà bằng sáng chế áp dụng cho một chương trình miễn phí có thể
+làm cho nó trở thành độc quyền hiệu quả. Để ngăn chặn điều này, GPL đảm bảo rằng
+Bằng sáng chế không thể được sử dụng để làm cho chương trình không miễn phí.
+
+  Các điều khoản và điều kiện chính xác để sao chép, phân phối và
+sửa đổi theo sau.
+
+                       CÁC ĐIỀU KHOẢN VÀ ĐIỀU KIỆN
+
+  0. Các định nghĩa.
+
+  "Giấy phép này" đề cập đến phiên bản 3 của Giấy phép Công cộng GNU.
+
+  "Bản quyền" cũng có nghĩa là các luật giống như bản quyền áp dụng cho các loại
+hoạt động, chẳng hạn như mặt nạ bán dẫn.
+
+  "Chương trình" đề cập đến bất kỳ tác phẩm có bản quyền nào được cấp phép theo điều này
+Giấy phép. Mỗi người được cấp phép được gọi là "bạn". "Người được cấp phép" và
+"người nhận" có thể là cá nhân hoặc tổ chức.
+
+  Để "sửa đổi" một tác phẩm có nghĩa là sao chép từ hoặc điều chỉnh toàn bộ hoặc một phần của tác phẩm
+theo cách yêu cầu sự cho phép bản quyền, khác với việc tạo ra một
+bản sao chính xác. Công việc kết quả được gọi là "phiên bản sửa đổi" của
+công việc sớm hơn hoặc một công việc "dựa trên" công việc trước đó.
+
+  "Tác phẩm được đề cập" có nghĩa là Chương trình chưa được sửa đổi hoặc dựa trên tác phẩm
+trên Chương trình.
+
+  Để "tuyên truyền" một tác phẩm có nghĩa là làm bất cứ điều gì với nó mà không
+sự cho phép, sẽ khiến bạn phải chịu trách nhiệm trực tiếp hoặc thứ hai đối với
+vi phạm theo luật bản quyền hiện hành, ngoại trừ việc thực thi nó trên
+máy tính hoặc sửa đổi một bản sao riêng tư. Truyền bá bao gồm sao chép,
+phân phối (có hoặc không có sửa đổi), cung cấp cho
+công cộng, và ở một số quốc gia cũng có các hoạt động khác.
+
+  Để "chuyển tải" một tác phẩm có nghĩa là bất kỳ hình thức truyền bá nào cho phép người khác
+các bên để tạo hoặc nhận bản sao. Chỉ tương tác với người dùng thông qua
+một mạng máy tính, không có sự chuyển giao một bản sao, không phải là sự truyền tải.
+
+  Giao diện người dùng tương tác hiển thị "Thông báo pháp lý phù hợp"
+ở mức độ mà nó bao gồm một
+tính năng (1) hiển thị thông báo bản quyền thích hợp, và (2)
+cho người dùng biết rằng không có bảo hành nào cho tác phẩm (ngoại trừ
+phạm vi đảm bảo được cung cấp), người được cấp phép có thể chuyển tải
+làm việc theo Giấy phép này và cách xem bản sao của Giấy phép này. Nếu
+giao diện trình bày danh sách các lệnh hoặc tùy chọn của người dùng, chẳng hạn như
+menu, một mục nổi bật trong danh sách đáp ứng tiêu chí này.
+
+  1. Mã nguồn.
+
+  "Mã nguồn" cho một tác phẩm có nghĩa là hình thức ưa thích của tác phẩm
+để sửa đổi nó. "Mã đối tượng" có nghĩa là bất kỳ nguồn nào không phải là nguồn
+hình thức của một tác phẩm.
+
+  "Giao diện tiêu chuẩn" có nghĩa là giao diện là giao diện chính thức
+tiêu chuẩn được xác định bởi một tổ chức tiêu chuẩn được công nhận, hoặc, trong trường hợp
+giao diện được chỉ định cho một ngôn ngữ lập trình cụ thể, một
+được sử dụng rộng rãi giữa các nhà phát triển làm việc bằng ngôn ngữ đó.
+
+  "Thư viện Hệ thống" của một tác phẩm có thể thực thi bao gồm bất kỳ thứ gì, khác
+so với toàn bộ công việc, điều đó (a) được bao gồm ở dạng bình thường của
+đóng gói một Thành phần chính, nhưng không phải là một phần của Thành phần chính đó
+Thành phần, và (b) chỉ phục vụ để cho phép sử dụng công việc với
+Thành phần chính hoặc để triển khai Giao diện tiêu chuẩn mà
+triển khai có sẵn cho công chúng ở dạng mã nguồn. Một
+"Thành phần chính", trong ngữ cảnh này, có nghĩa là một thành phần thiết yếu chính
+(hạt nhân, hệ thống cửa sổ, v.v.) của hệ điều hành cụ thể
+(nếu có) nơi chạy công việc thực thi hoặc trình biên dịch được sử dụng để
+tạo ra tác phẩm hoặc một trình thông dịch mã đối tượng được sử dụng để chạy nó.
+
+  "Nguồn tương ứng" cho một tác phẩm ở dạng mã đối tượng có nghĩa là tất cả
+mã nguồn cần thiết để tạo, cài đặt và (cho một tệp thực thi
+công việc) chạy mã đối tượng và sửa đổi công việc, bao gồm các tập lệnh để
+kiểm soát các hoạt động đó. Tuy nhiên, nó không bao gồm công việc
+Thư viện Hệ thống, hoặc các công cụ đa năng hoặc thường có sẵn miễn phí
+các chương trình được sử dụng không được sửa đổi để thực hiện các hoạt động đó nhưng
+mà không phải là một phần của công việc. Ví dụ: Nguồn tương ứng
+bao gồm các tệp định nghĩa giao diện được liên kết với các tệp nguồn cho
+công việc và mã nguồn cho các thư viện được chia sẻ và động
+các chương trình con được liên kết mà công việc được thiết kế đặc biệt để yêu cầu,
+chẳng hạn như giao tiếp dữ liệu mật thiết hoặc luồng kiểm soát giữa những
+chương trình con và các phần khác của tác phẩm.
+
+  Nguồn tương ứng không cần bao gồm bất kỳ thứ gì mà người dùng
+có thể tự động tạo lại từ các phần khác của
+Nguồn.
+
+  Nguồn Tương ứng cho một tác phẩm ở dạng mã nguồn là
+cùng một công việc.
+
+  2. Quyền cơ bản.
+
+  Tất cả các quyền được cấp theo Giấy phép này được cấp cho thời hạn của
+bản quyền đối với Chương trình và không thể hủy ngang với điều kiện đã nêu
+Các điều kiện được đáp ứng. Giấy phép này khẳng định rõ ràng sự không giới hạn của bạn
+quyền chạy Chương trình chưa sửa đổi. Kết quả đầu ra từ việc chạy một
+công việc được bảo hiểm chỉ được bao gồm trong Giấy phép này nếu đầu ra, với
+nội dung, cấu thành một tác phẩm được bao phủ. Giấy phép này thừa nhận
+quyền sử dụng hợp pháp hoặc quyền tương đương khác, theo quy định của luật bản quyền.
+
+  Bạn có thể tạo, chạy và tuyên truyền các tác phẩm được bảo hộ mà bạn không
+chuyển tải, không có điều kiện miễn là giấy phép của bạn vẫn còn
+có hiệu lực. Bạn có thể chuyển tải các tác phẩm được bảo hiểm cho người khác với mục đích duy nhất
+yêu cầu họ thực hiện các sửa đổi dành riêng cho bạn hoặc cung cấp cho bạn
+với các phương tiện để vận hành các công việc đó, với điều kiện bạn phải tuân thủ
+các điều khoản của Giấy phép này trong việc chuyển tải tất cả tài liệu mà bạn làm
+không kiểm soát bản quyền. Do đó, những người tạo ra hoặc chạy các tác phẩm được bảo hiểm
+vì bạn phải làm như vậy độc quyền thay mặt bạn, dưới sự chỉ đạo của bạn
+và kiểm soát, đối với các điều khoản cấm họ tạo bất kỳ bản sao nào của
+tài liệu có bản quyền của bạn bên ngoài mối quan hệ của họ với bạn.
+
+  Chỉ được phép chuyển tải trong bất kỳ trường hợp nào khác theo
+các điều kiện nêu dưới đây. Cấp phép con không được phép; phần 10
+làm cho nó không cần thiết.
+
+  3. Bảo vệ Quyền hợp pháp của Người dùng khỏi Luật Chống gian lận.
+
+  Không có công việc được bảo hiểm nào sẽ được coi là một phần của công nghệ hiệu quả
+đo lường theo bất kỳ luật hiện hành nào thực hiện các nghĩa vụ theo điều khoản
+11 của hiệp ước bản quyền WIPO được thông qua vào ngày 20 tháng 12 năm 1996, hoặc
+các luật tương tự cấm hoặc hạn chế hành vi gian lận như vậy
+đo.
+
+  Khi bạn chuyển tải một tác phẩm được đề cập, bạn từ bỏ mọi quyền lực pháp lý để cấm
+phá vỡ các biện pháp công nghệ ở mức độ vượt quá
+được thực hiện bằng cách thực hiện các quyền theo Giấy phép này đối với
+công việc được bảo hiểm và bạn từ chối mọi ý định giới hạn hoạt động hoặc
+sửa đổi công việc như một phương tiện để thực thi, chống lại công việc
+người dùng, quyền hợp pháp của bạn hoặc các bên thứ ba để cấm gian lận
+các biện pháp công nghệ.
+
+  4. Truyền tải các bản sao nguyên văn.
+
+  Bạn có thể chuyển tải các bản sao nguyên văn của mã nguồn của Chương trình khi bạn
+nhận nó, bằng bất kỳ phương tiện nào, với điều kiện là bạn dễ thấy và
+công bố thích hợp trên mỗi bản sao một thông báo bản quyền thích hợp;
+giữ nguyên vẹn tất cả các thông báo nêu rõ rằng Giấy phép này và bất kỳ
+các điều khoản không cho phép được thêm vào phù hợp với phần 7 áp dụng cho mã;
+giữ nguyên vẹn tất cả các thông báo về việc không có bất kỳ bảo hành nào; và cho tất cả
+người nhận một bản sao của Giấy phép này cùng với Chương trình.
+
+  Bạn có thể tính bất kỳ giá nào hoặc không tính giá cho mỗi bản sao mà bạn chuyển tải,
+và bạn có thể cung cấp hỗ trợ hoặc bảo hành với một khoản phí.
+
+  5. Truyền tải các phiên bản nguồn đã sửa đổi.
+
+  Bạn có thể chuyển tải một tác phẩm dựa trên Chương trình hoặc các sửa đổi đối với
+sản xuất nó từ Chương trình, dưới dạng mã nguồn dưới
+điều khoản của phần 4, với điều kiện bạn cũng đáp ứng tất cả các điều kiện sau:
+
+    a) Tác phẩm phải mang các thông báo nổi bật cho biết rằng bạn đã sửa đổi
+    nó, và đưa ra một ngày có liên quan.
+
+    b) Tác phẩm phải có các thông báo nổi bật cho biết rằng nó là
+    được phát hành theo Giấy phép này và bất kỳ điều kiện nào được bổ sung trong phần
+    7. Yêu cầu này sửa đổi yêu cầu trong phần 4 thành
+    "giữ nguyên vẹn tất cả các thông báo".
+
+    c) Bạn phải cấp phép cho toàn bộ tác phẩm, theo điều này
+    Giấy phép cho bất kỳ ai sở hữu một bản sao. Đây
+    Do đó, giấy phép sẽ được áp dụng, cùng với bất kỳ phần 7 hiện hành nào
+    các điều khoản bổ sung, cho toàn bộ tác phẩm và tất cả các phần của nó,
+    bất kể chúng được đóng gói như thế nào. Giấy phép này không cho
+    quyền cấp phép cho tác phẩm theo bất kỳ cách nào khác, nhưng nó không
+    vô hiệu hóa quyền đó nếu bạn đã nhận được nó một cách riêng biệt.
+
+    d) Nếu tác phẩm có giao diện người dùng tương tác, mỗi giao diện phải hiển thị
+    Thông báo pháp lý thích hợp; tuy nhiên, nếu Chương trình có tương tác
+    giao diện không hiển thị Thông báo pháp lý phù hợp,
+    công việc không cần phải bắt họ làm như vậy.
+
+  Tổng hợp một tác phẩm được đề cập với các tác phẩm riêng biệt và độc lập khác
+tác phẩm không phải là phần mở rộng về bản chất của công việc được bảo hiểm,
+và không được kết hợp với nó, chẳng hạn như để tạo thành một chương trình lớn hơn,
+trong hoặc trên một khối lượng của phương tiện lưu trữ hoặc phân phối, được gọi là
+"tổng hợp" nếu bản tổng hợp và bản quyền kết quả của nó không
+được sử dụng để hạn chế quyền truy cập hoặc quyền hợp pháp của người dùng biên dịch
+vượt quá những gì cá nhân làm việc cho phép. Bao gồm một công việc được bảo hiểm
+tổng thể không làm cho Giấy phép này áp dụng cho Giấy phép kia
+các bộ phận của tổng hợp.
+
+  6. Truyền tải Biểu mẫu Không Nguồn.
+
+  Bạn có thể chuyển tải một tác phẩm được đề cập ở dạng mã đối tượng theo các điều khoản
+của phần 4 và 5, với điều kiện là bạn cũng chuyển tải
+Nguồn tương ứng có thể đọc được bằng máy theo các điều khoản của Giấy phép này,
+bằng một trong những cách sau:
+
+    a) Truyền tải mã đối tượng trong, hoặc được thể hiện trong một sản phẩm vật lý
+    (bao gồm một phương tiện phân phối vật lý), kèm theo
+    Nguồn tương ứng được cố định trên một phương tiện vật lý bền
+    thường được sử dụng để trao đổi phần mềm.
+
+    b) Truyền mã đối tượng trong hoặc được bao hàm trong một sản phẩm vật lý
+    (bao gồm một phương tiện phân phối vật lý), kèm theo
+    đề nghị bằng văn bản, có giá trị trong ít nhất ba năm và có giá trị như
+    miễn là bạn cung cấp phụ tùng thay thế hoặc hỗ trợ khách hàng cho sản phẩm đó
+    mô hình, để cung cấp cho bất kỳ ai sở hữu mã đối tượng (1)
+    bản sao của Nguồn tương ứng cho tất cả phần mềm trong
+    sản phẩm được bao gồm bởi Giấy phép này, trên một vật lý bền
+    phương tiện thường được sử dụng để trao đổi phần mềm, với giá không
+    nhiều hơn chi phí hợp lý của bạn để thực hiện điều này
+    chuyển tải nguồn hoặc (2) quyền truy cập để sao chép
+    Nguồn tương ứng từ máy chủ mạng miễn phí.
+
+    c) Truyền tải các bản sao riêng lẻ của mã đối tượng với một bản sao của
+    đề nghị bằng văn bản để cung cấp Nguồn tương ứng. Đây
+    thay thế chỉ được phép thỉnh thoảng và phi thương mại, và
+    chỉ khi bạn nhận được mã đối tượng với một đề nghị như vậy, phù hợp với
+    với tiểu mục 6b.
+
+    d) Truyền mã đối tượng bằng cách cung cấp quyền truy cập từ một
+    địa điểm (miễn phí hoặc tính phí) và cung cấp quyền truy cập tương đương vào
+    Nguồn tương ứng theo cùng một cách thông qua cùng một nơi tại không
+    thêm phí. Bạn không cần phải yêu cầu người nhận sao chép
+    Nguồn tương ứng cùng với mã đối tượng. Nếu nơi để
+    sao chép mã đối tượng là một máy chủ mạng, Nguồn tương ứng
+    có thể ở trên một máy chủ khác (do bạn hoặc bên thứ ba vận hành)
+    hỗ trợ các phương tiện sao chép tương đương, miễn là bạn duy trì
+    chỉ đường rõ ràng bên cạnh mã đối tượng cho biết nơi tìm
+    Nguồn tương ứng. Bất kể máy chủ nào lưu trữ
+    Nguồn tương ứng, bạn vẫn có nghĩa vụ đảm bảo rằng nó là
+    có sẵn miễn là cần thiết để đáp ứng các yêu cầu này.
+
+    e) Truyền mã đối tượng bằng cách truyền ngang hàng, được cung cấp
+    bạn thông báo cho các đồng nghiệp khác nơi mã đối tượng và
+    Nguồn của tác phẩm không được cung cấp cho công chúng
+    tính phí theo tiểu mục 6d.
+
+  Một phần có thể tách biệt của mã đối tượng, có mã nguồn bị loại trừ
+từ Nguồn tương ứng như một Thư viện Hệ thống, không cần
+bao gồm trong việc chuyển tải công việc mã đối tượng.
+
+  "Sản phẩm của Người dùng" là (1) "sản phẩm tiêu dùng", có nghĩa là bất kỳ
+tài sản cá nhân hữu hình thường được sử dụng cho cá nhân, gia đình,
+hoặc mục đích gia dụng, hoặc (2) bất kỳ thứ gì được thiết kế hoặc bán để kết hợp
+vào một nơi ở. Để xác định xem một sản phẩm có phải là sản phẩm tiêu dùng hay không,
+các trường hợp nghi ngờ sẽ được giải quyết có lợi cho phạm vi bảo hiểm. Đối với một cụ thể
+sản phẩm nhận được bởi một người dùng cụ thể, "thường được sử dụng" đề cập đến một
+sử dụng điển hình hoặc thông thường của loại sản phẩm đó, bất kể trạng thái
+của người dùng cụ thể hoặc cách thức mà người dùng cụ thể
+thực sự sử dụng, hoặc mong đợi hoặc được mong đợi sử dụng, sản phẩm. Một sản phẩm
+là một sản phẩm tiêu dùng bất kể sản phẩm đó có
+mục đích sử dụng thương mại, công nghiệp hoặc phi tiêu dùng, trừ khi những mục đích sử dụng đó thể hiện
+chế độ sử dụng quan trọng duy nhất của sản phẩm.
+
+  "Thông tin Cài đặt" cho Sản phẩm Người dùng có nghĩa là bất kỳ phương pháp nào,
+thủ tục, khóa ủy quyền hoặc thông tin khác cần thiết để cài đặt
+và thực thi các phiên bản sửa đổi của tác phẩm được đề cập trong Sản phẩm của Người dùng đó từ
+một phiên bản sửa đổi của Nguồn tương ứng. Thông tin phải
+đủ để đảm bảo rằng đối tượng được sửa đổi tiếp tục hoạt động
+không có trường hợp nào mã bị ngăn cản hoặc bị can thiệp chỉ vì
+sửa đổi đã được thực hiện.
+
+  Nếu bạn chuyển tải một mã đối tượng, hãy làm việc theo phần này trong, hoặc với, hoặc
+đặc biệt để sử dụng trong Sản phẩm Người dùng và việc truyền tải diễn ra như
+một phần của giao dịch trong đó quyền sở hữu và sử dụng
+Sản phẩm của Người dùng được chuyển đến người nhận một cách vĩnh viễn hoặc cho một
+thời hạn cố định (bất kể giao dịch được đặc trưng như thế nào),
+Nguồn tương ứng được chuyển tải trong phần này phải được kèm theo
+bởi Thông tin cài đặt. Nhưng yêu cầu này không áp dụng
+nếu bạn hoặc bất kỳ bên thứ ba nào không giữ được khả năng cài đặt
+mã đối tượng được sửa đổi trên Sản phẩm Người dùng (ví dụ: tác phẩm có
+đã được cài đặt trong ROM).
+
+  Yêu cầu cung cấp Thông tin Cài đặt không bao gồm
+yêu cầu tiếp tục cung cấp dịch vụ hỗ trợ, bảo hành hoặc cập nhật
+cho một tác phẩm đã được sửa đổi hoặc cài đặt bởi người nhận, hoặc cho
+Sản phẩm Người dùng mà nó đã được sửa đổi hoặc cài đặt. Truy cập vào một
+mạng có thể bị từ chối khi bản thân sửa đổi về mặt vật chất và
+ảnh hưởng xấu đến hoạt động của mạng hoặc vi phạm các quy tắc và
+các giao thức để truyền thông qua mạng.
+
+  Nguồn tương ứng được chuyển tải và Thông tin cài đặt được cung cấp,
+phù hợp với phần này phải ở định dạng công khai
+được lập thành văn bản (và với một triển khai có sẵn cho công chúng trong
+mã nguồn), và không được yêu cầu mật khẩu hoặc khóa đặc biệt cho
+giải nén, đọc hoặc sao chép.
+
+  7. Điều khoản bổ sung.
+
+  "Quyền bổ sung" là các điều khoản bổ sung cho các điều khoản này
+Giấy phép bằng cách thực hiện các ngoại lệ từ một hoặc nhiều điều kiện của nó.
+Các quyền bổ sung áp dụng cho toàn bộ Chương trình sẽ
+được đối xử như thể chúng đã được bao gồm trong Giấy phép này, trong phạm vi
+rằng chúng hợp lệ theo luật hiện hành. Nếu quyền bổ sung
+chỉ áp dụng cho một phần của Chương trình, phần đó có thể được sử dụng riêng
+theo các quyền đó, nhưng toàn bộ Chương trình vẫn chịu sự chi phối của
+Giấy phép này mà không liên quan đến các quyền bổ sung.
+
+  Khi bạn chuyển tải một bản sao của một tác phẩm được đề cập, bạn có thể tùy ý
+xóa bất kỳ quyền bổ sung nào khỏi bản sao đó hoặc từ bất kỳ phần nào của
+nó. (Các quyền bổ sung có thể được viết để yêu cầu quyền của riêng họ
+loại bỏ trong một số trường hợp nhất định khi bạn sửa đổi tác phẩm.) Bạn có thể đặt
+quyền bổ sung đối với tài liệu, do bạn thêm vào tác phẩm được bảo hiểm,
+mà bạn có hoặc có thể cho phép bản quyền thích hợp.
+
+  Bất chấp bất kỳ điều khoản nào khác của Giấy phép này, đối với tài liệu bạn
+thêm vào một tác phẩm được đề cập, bạn có thể (nếu được chủ sở hữu bản quyền của
+tài liệu đó) bổ sung các điều khoản của Giấy phép này với các điều khoản:
+
+    a) Từ chối bảo hành hoặc giới hạn trách nhiệm khác với
+    các điều khoản của phần 15 và 16 của Giấy phép này; hoặc
+
+    b) Yêu cầu lưu giữ các thông báo pháp lý hợp lý cụ thể hoặc
+    ghi nhận tác giả trong tài liệu đó hoặc trong Pháp lý phù hợp
+    Các thông báo hiển thị bởi các công trình có chứa nó; hoặc
+
+    c) Nghiêm cấm trình bày sai về nguồn gốc của tài liệu đó, hoặc
+    yêu cầu rằng các phiên bản sửa đổi của tài liệu đó phải được đánh dấu trong
+    cách hợp lý như khác với phiên bản gốc; hoặc
+
+    d) Hạn chế việc sử dụng cho các mục đích công khai tên của người cấp phép hoặc
+    tác giả của tài liệu; hoặc
+
+    e) Từ chối cấp quyền theo luật nhãn hiệu để sử dụng một số
+    tên thương mại, nhãn hiệu hoặc nhãn hiệu dịch vụ; hoặc
+
+    f) Yêu cầu bồi thường của người cấp phép và tác giả của
+    tài liệu của bất kỳ ai chuyển tải tài liệu (hoặc các phiên bản sửa đổi của
+    nó) với các giả định theo hợp đồng về trách nhiệm đối với người nhận, đối với
+    bất kỳ trách nhiệm pháp lý nào mà các giả định trong hợp đồng này trực tiếp áp đặt lên
+    những người cấp phép và tác giả.
+
+  Tất cả các điều khoản bổ sung không được phép khác được xem xét "thêm
+hạn chế "theo nghĩa của phần 10. Nếu Chương trình như bạn
+đã nhận nó, hoặc bất kỳ phần nào của nó, có một thông báo cho biết rằng nó là
+được điều chỉnh bởi Giấy phép này cùng với một điều khoản khác
+hạn chế, bạn có thể loại bỏ thuật ngữ đó. Nếu một tài liệu cấp phép chứa
+một hạn chế hơn nữa nhưng cho phép chuyển tải hoặc chuyển tải theo điều này
+Giấy phép, bạn có thể thêm vào tài liệu làm việc được bảo hiểm được điều chỉnh bởi các điều khoản
+của tài liệu cấp phép đó, với điều kiện là hạn chế hơn nữa không
+không tồn tại được khi dựa vào hoặc chuyển tải như vậy.
+
+  Nếu bạn thêm các điều khoản vào một tác phẩm được đề cập phù hợp với phần này, bạn
+phải đặt, trong các tệp nguồn liên quan, một tuyên bố về
+các điều khoản bổ sung áp dụng cho các tệp đó hoặc thông báo cho biết
+nơi để tìm các điều khoản áp dụng.
+
+  Các điều khoản bổ sung, cho phép hoặc không cho phép, có thể được nêu trong
+hình thức của một giấy phép bằng văn bản riêng biệt, hoặc được nêu là các trường hợp ngoại lệ;
+các yêu cầu trên áp dụng theo một trong hai cách.
+
+  8. Chấm dứt.
+
+  Bạn không được tuyên truyền hoặc sửa đổi tác phẩm được đề cập ngoại trừ một cách rõ ràng
+được cung cấp theo Giấy phép này. Bất kỳ nỗ lực nào khác để tuyên truyền hoặc
+sửa đổi nó là vô hiệu và sẽ tự động chấm dứt quyền của bạn theo
+Giấy phép này (bao gồm bất kỳ giấy phép sáng chế nào được cấp theo thứ ba
+đoạn 11).
+
+  Tuy nhiên, nếu bạn chấm dứt mọi vi phạm Giấy phép này, thì
+giấy phép từ một chủ bản quyền cụ thể được khôi phục (a)
+tạm thời, trừ khi và cho đến khi chủ bản quyền rõ ràng và
+cuối cùng chấm dứt giấy phép của bạn và (b) vĩnh viễn, nếu bản quyền
+chủ sở hữu không thông báo cho bạn về vi phạm bằng một số biện pháp hợp lý
+trước 60 ngày sau khi ngừng việc.
+
+  Hơn nữa, giấy phép của bạn từ một chủ bản quyền cụ thể là
+được khôi phục vĩnh viễn nếu chủ sở hữu bản quyền thông báo cho bạn về
+vi phạm bằng một số phương tiện hợp lý, đây là lần đầu tiên bạn có
+nhận được thông báo về việc vi phạm Giấy phép này (đối với bất kỳ tác phẩm nào) từ đó
+chủ sở hữu bản quyền và bạn sẽ sửa chữa vi phạm trước 30 ngày sau
+việc nhận được thông báo của bạn.
+
+  Việc chấm dứt các quyền của bạn theo phần này không chấm dứt
+giấy phép của các bên đã nhận bản sao hoặc quyền từ bạn theo
+Giấy phép này. Nếu quyền của bạn đã bị chấm dứt và không phải là vĩnh viễn
+được phục hồi, bạn không đủ điều kiện để nhận các giấy phép mới cho cùng một
+tài liệu thuộc phần 10.
+
+  9. Không cần chấp nhận để có bản sao.
+
+  Bạn không bắt buộc phải chấp nhận Giấy phép này để nhận hoặc
+chạy một bản sao của Chương trình. Nhân giống phụ trợ của một tác phẩm được bảo hiểm
+chỉ xảy ra do sử dụng truyền tải ngang hàng
+để nhận được một bản sao tương tự như vậy không yêu cầu chấp nhận. Tuy nhiên,
+không có gì khác ngoài Giấy phép này cấp cho bạn quyền để tuyên truyền hoặc
+sửa đổi bất kỳ công việc được bảo hiểm. Những hành động này vi phạm bản quyền nếu bạn làm
+không chấp nhận Giấy phép này. Do đó, bằng cách sửa đổi hoặc tuyên truyền một
+công việc được bảo hiểm, bạn cho biết bạn chấp nhận Giấy phép này để làm như vậy.
+
+  10. Cấp phép tự động cho người nhận xuôi dòng.
+
+  Mỗi khi bạn chuyển tải một tác phẩm được đề cập, người nhận sẽ tự động
+nhận được giấy phép từ người cấp phép ban đầu, để chạy, sửa đổi và
+tuyên truyền tác phẩm đó theo Giấy phép này. Bạn không chịu trách nhiệm
+để thực thi sự tuân thủ của các bên thứ ba đối với Giấy phép này.
+
+  "Giao dịch thực thể" là một giao dịch chuyển quyền kiểm soát một
+tổ chức, hoặc về cơ bản là tất cả nội dung của một hoặc chia nhỏ một
+tổ chức hoặc hợp nhất các tổ chức. Nếu nhân giống của một
+kết quả công việc từ một giao dịch thực thể, mỗi bên tham gia
+giao dịch nhận được một bản sao của tác phẩm cũng nhận được bất cứ thứ gì
+giấy phép cho công việc mà người tiền nhiệm của bên quan tâm có hoặc có thể
+cho theo đoạn trước, cộng với quyền sở hữu
+Nguồn tương ứng của tác phẩm từ người đi trước được quan tâm, nếu
+người đi trước có nó hoặc có thể có được nó với những nỗ lực hợp lý.
+
+  Bạn không thể áp đặt thêm bất kỳ hạn chế nào đối với việc thực hiện
+các quyền được cấp hoặc khẳng định theo Giấy phép này. Ví dụ, bạn có thể
+không áp đặt lệ phí giấy phép, tiền bản quyền hoặc các khoản phí khác để thực hiện
+các quyền được cấp theo Giấy phép này và bạn không được khởi kiện
+(bao gồm khiếu nại chéo hoặc yêu cầu phản tố trong một vụ kiện) cáo buộc rằng
+bất kỳ khiếu nại bằng sáng chế nào đều bị vi phạm bằng cách đưa ra, sử dụng, bán, chào bán
+bán, hoặc nhập Chương trình hoặc bất kỳ phần nào của Chương trình.
+
+  11. Bằng sáng chế.
+
+  "Người đóng góp" là chủ sở hữu bản quyền cho phép sử dụng theo điều này
+Giấy phép của Chương trình hoặc tác phẩm dựa trên đó Chương trình. Các
+do đó, công việc được cấp phép được gọi là "phiên bản cộng tác viên" của người đóng góp.
+
+  "Yêu cầu về bằng sáng chế thiết yếu" của một người đóng góp là tất cả các yêu cầu về bằng sáng chế
+thuộc sở hữu hoặc kiểm soát của người đóng góp, cho dù đã được mua lại hoặc
+sau khi mua lại, điều đó sẽ bị vi phạm theo một số cách, được cho phép
+bằng Giấy phép này, về việc tạo ra, sử dụng hoặc bán phiên bản cộng tác viên của nó,
+nhưng không bao gồm các xác nhận quyền sở hữu sẽ chỉ bị vi phạm dưới dạng
+hậu quả của việc sửa đổi thêm phiên bản cộng tác viên. Vì
+mục đích của định nghĩa này, "quyền kiểm soát" bao gồm quyền cấp
+giấy phép phụ bằng sáng chế theo cách thức phù hợp với các yêu cầu của
+Giấy phép này.
+
+  Mỗi cộng tác viên cấp cho bạn một tài khoản không độc quyền, trên toàn thế giới, miễn phí bản quyền
+giấy phép bằng sáng chế theo yêu cầu bằng sáng chế thiết yếu của người đóng góp, để
+tạo, sử dụng, bán, chào bán, nhập khẩu và chạy, sửa đổi và
+tuyên truyền nội dung của phiên bản cộng tác viên của nó.
+
+  Trong ba đoạn sau, "giấy phép bằng sáng chế" là bất kỳ
+thỏa thuận hoặc cam kết, tuy nhiên có giá trị, không phải để thực thi bằng sáng chế
+(chẳng hạn như một sự cho phép rõ ràng để thực hành một bằng sáng chế hoặc giao ước không
+kiện vi phạm bằng sáng chế). Để "cấp" giấy phép sáng chế như vậy cho
+bên có nghĩa là đưa ra một thỏa thuận hoặc cam kết không thực thi một
+bằng sáng chế chống lại đảng.
+
+  Nếu bạn chuyển tải một tác phẩm được đề cập, cố ý dựa vào giấy phép bằng sáng chế,
+và Nguồn tương ứng của tác phẩm không có sẵn cho bất kỳ ai
+sao chép, miễn phí và theo các điều khoản của Giấy phép này, thông qua
+máy chủ mạng có sẵn công khai hoặc các phương tiện có thể truy cập dễ dàng khác,
+thì bạn phải (1) làm cho Nguồn tương ứng như vậy
+có sẵn, hoặc (2) sắp xếp để tước đoạt lợi ích của
+giấy phép bằng sáng chế cho công việc cụ thể này, hoặc (3) sắp xếp, theo cách
+phù hợp với các yêu cầu của Giấy phép này, để gia hạn bằng sáng chế
+giấy phép cho người nhận hạ lưu. "Cố ý dựa vào" có nghĩa là bạn có
+kiến thức thực tế, nhưng đối với giấy phép bằng sáng chế, việc chuyển tải của bạn
+công việc được bảo hiểm ở một quốc gia hoặc việc người nhận của bạn sử dụng công việc được bảo hiểm
+ở một quốc gia, sẽ vi phạm một hoặc nhiều bằng sáng chế có thể nhận dạng được trong đó
+quốc gia mà bạn có lý do để tin là hợp lệ.
+
+  Nếu, theo hoặc liên quan đến một giao dịch hoặc
+sắp xếp, bạn truyền đạt, hoặc tuyên truyền bằng cách mua sắm truyền tải,
+công việc được bảo hiểm và cấp giấy phép bằng sáng chế cho một số bên
+nhận tác phẩm được bảo hiểm cho phép họ sử dụng, tuyên truyền, sửa đổi
+hoặc chuyển tải một bản sao cụ thể của tác phẩm được đề cập, sau đó là giấy phép bằng sáng chế
+bạn cấp sẽ tự động được mở rộng cho tất cả những người nhận được bảo hiểm
+làm việc và hoạt động dựa trên nó.
+
+  Giấy phép bằng sáng chế là "phân biệt đối xử" nếu nó không bao gồm
+phạm vi bảo hiểm của nó, cấm thực hiện, hoặc
+với điều kiện là không thực hiện một hoặc nhiều quyền
+được cấp cụ thể theo Giấy phép này. Bạn không thể chuyển tải một
+làm việc nếu bạn là một bên tham gia thỏa thuận với bên thứ ba
+trong kinh doanh phân phối phần mềm, theo đó bạn thanh toán
+cho bên thứ ba dựa trên mức độ hoạt động của bạn trong việc chuyển tải
+công việc và theo đó bên thứ ba cấp, cho bất kỳ
+những bên sẽ nhận công việc được bảo hiểm từ bạn, một sự phân biệt đối xử
+giấy phép bằng sáng chế (a) liên quan đến các bản sao của tác phẩm được đề cập
+do bạn chuyển tải (hoặc các bản sao được tạo ra từ các bản sao đó), hoặc (b) chủ yếu
+cho và liên quan đến các sản phẩm hoặc bộ sưu tập cụ thể
+chứa công việc được đề cập, trừ khi bạn tham gia vào thỏa thuận đó,
+hoặc giấy phép sáng chế đó đã được cấp, trước ngày 28 tháng 3 năm 2007.
+
+  Không có gì trong Giấy phép này sẽ được hiểu là loại trừ hoặc hạn chế
+bất kỳ giấy phép ngụ ý nào hoặc các biện pháp bảo vệ khác đối với hành vi vi phạm có thể
+nếu không sẽ có sẵn cho bạn theo luật bằng sáng chế hiện hành.
+
+  12. Không Đầu Hàng Tự Do Của Người Khác.
+
+  Nếu các điều kiện được áp đặt cho bạn (cho dù theo lệnh tòa, thỏa thuận hoặc
+nếu không) mâu thuẫn với các điều kiện của Giấy phép này, họ không
+xin lỗi bạn khỏi các điều kiện của Giấy phép này. Nếu bạn không thể chuyển tải một
+công việc được bảo hiểm để đáp ứng đồng thời các nghĩa vụ của bạn theo điều này
+Giấy phép và bất kỳ nghĩa vụ thích hợp nào khác, do đó bạn có thể
+không chuyển tải nó ở tất cả. Ví dụ: nếu bạn đồng ý với các điều khoản bắt buộc bạn
+để thu tiền bản quyền để chuyển tải thêm từ những người mà bạn chuyển tải
+Chương trình, cách duy nhất bạn có thể đáp ứng cả hai điều khoản đó và điều này
+Giấy phép sẽ hạn chế hoàn toàn việc truyền đạt Chương trình.
+
+  13. Sử dụng với GNU Affero General Public License.
+
+  Bất chấp bất kỳ điều khoản nào khác của Giấy phép này, bạn có
+quyền liên kết hoặc kết hợp bất kỳ tác phẩm được đề cập nào với tác phẩm được cấp phép
+theo phiên bản 3 của GNU Affero General Public License thành một
+công việc kết hợp và để truyền đạt kết quả công việc. Các điều khoản của điều này
+Giấy phép sẽ tiếp tục áp dụng cho phần công việc được bảo hiểm,
+nhưng các yêu cầu đặc biệt của Giấy phép Công cộng GNU Affero General,
+phần 13, liên quan đến tương tác thông qua mạng sẽ áp dụng cho
+kết hợp như vậy.
+
+  14. Các phiên bản sửa đổi của Giấy phép này.
+
+  Tổ chức Phần mềm Tự do có thể xuất bản các phiên bản sửa đổi và / hoặc mới của
+Giấy phép Công cộng GNU theo thời gian. Những phiên bản mới như vậy sẽ
+về tinh thần tương tự như phiên bản hiện tại, nhưng có thể khác về chi tiết
+giải quyết các vấn đề hoặc mối quan tâm mới.
+
+  Mỗi phiên bản được gán một số phiên bản riêng. Nếu
+Chương trình chỉ định rằng một phiên bản được đánh số nhất định của GNU General
+Giấy phép Công cộng "hoặc bất kỳ phiên bản nào mới hơn" áp dụng cho nó, bạn có
+tùy chọn tuân theo các điều khoản và điều kiện được đánh số
+phiên bản hoặc của bất kỳ phiên bản nào mới hơn do Phần mềm Miễn phí xuất bản
+Sự thành lập. Nếu Chương trình không chỉ định số phiên bản của
+Giấy phép Công cộng GNU, bạn có thể chọn bất kỳ phiên bản nào đã từng được xuất bản
+bởi Tổ chức Phần mềm Tự do.
+
+  Nếu Chương trình chỉ định rằng proxy có thể quyết định tương lai nào
+phiên bản của Giấy phép Công cộng GNU có thể được sử dụng, proxy của
+tuyên bố công khai về việc chấp nhận một phiên bản ủy quyền vĩnh viễn cho bạn
+để chọn phiên bản đó cho Chương trình.
+
+  Các phiên bản giấy phép sau này có thể cung cấp cho bạn bổ sung hoặc khác
+quyền. Tuy nhiên, không có nghĩa vụ bổ sung nào được áp dụng đối với bất kỳ
+tác giả hoặc chủ sở hữu bản quyền do bạn chọn theo dõi
+phiên bản sau.
+
+  15. Tuyên bố từ chối bảo hành.
+
+  KHÔNG CÓ BẢO ĐẢM CHO CHƯƠNG TRÌNH, ĐỐI VỚI NGOẠI HẠN ĐƯỢC PHÉP BỞI
+LUẬT ÁP DỤNG. NGOẠI TRỪ KHI CÓ LỖI KHI VIẾT BẢN QUYỀN CỦA NGƯỜI KHÁC
+CHỦ NHÂN VÀ / HOẶC CÁC BÊN KHÁC CUNG CẤP CHƯƠNG TRÌNH "NGUYÊN TRẠNG" MÀ KHÔNG CÓ BẢO HÀNH
+BẤT KỲ HÌNH THỨC NÀO, ĐƯỢC THỂ HIỆN HOẶC NGỤ Ý, BAO GỒM, NHƯNG KHÔNG GIỚI HẠN ĐỐI VỚI,
+CÁC BẢO ĐẢM NGẪU NHIÊN VỀ KHẢ NĂNG LINH HOẠT VÀ PHÙ HỢP VỚI MỘT NGƯỜI THAM GIA
+MỤC ĐÍCH. RỦI RO TOÀN BỘ ĐỐI VỚI CHẤT LƯỢNG VÀ HIỆU SUẤT CỦA CHƯƠNG TRÌNH
+LÀ VỚI BẠN. NÊN CHƯƠNG TRÌNH CUNG CẤP CÓ ĐỊNH NGHĨA, BẠN HỎI CHI PHÍ CỦA
+TẤT CẢ CÁC DỊCH VỤ CẦN THIẾT, SỬA CHỮA HOẶC CHỈNH SỬA.
+
+  16. Giới hạn trách nhiệm.
+
+  KHÔNG CÓ SỰ KIỆN KHÔNG ĐƯỢC YÊU CẦU CỦA LUẬT ÁP DỤNG HOẶC ĐỒNG Ý KHI VIẾT
+SẼ BẤT KỲ NGƯỜI GIỮ BẢN QUYỀN NÀO HOẶC BẤT KỲ BÊN KHÁC NÀO SỬA ĐỔI VÀ / HOẶC CHUYỂN ĐỔI
+CHƯƠNG TRÌNH NHƯ ĐƯỢC PHÉP TRÊN, CHỊU TRÁCH NHIỆM PHÁP LÝ VỚI BẠN VỀ THIỆT HẠI, BAO GỒM BẤT KỲ
+CÁC THIỆT HẠI CHUNG, ĐẶC BIỆT, SỰ CỐ HOẶC HẬU QUẢ PHÁT SINH NGOÀI
+SỬ DỤNG HOẶC KHÔNG CÓ TRÁCH NHIỆM SỬ DỤNG CHƯƠNG TRÌNH (BAO GỒM NHƯNG KHÔNG GIỚI HẠN KHI MẤT
+DỮ LIỆU HOẶC DỮ LIỆU ĐƯỢC BẠN HOẶC THỨ BA HIỂU KHÔNG CHÍNH XÁC HOẶC MẤT LỖI
+CÁC BÊN HOẶC BẤT KỲ CHƯƠNG TRÌNH CÓ THỂ HOẠT ĐỘNG VỚI BẤT KỲ CHƯƠNG TRÌNH KHÁC),
+NGAY CẢ NẾU CHỦ SỞ HỮU HAY BÊN KHÁC ĐƯỢC TƯ VẤN VỀ KHẢ NĂNG CỦA
+NHỮNG THIỆT HẠI NHƯ VẬY.
+
+  17. Giải thích Phần 15 và 16.
+
+  Nếu từ chối trách nhiệm bảo hành và giới hạn trách nhiệm được cung cấp
+ở trên không thể có hiệu lực pháp lý địa phương theo các điều khoản của họ,
+các tòa án xem xét sẽ áp dụng luật địa phương gần đúng nhất
+sự từ bỏ tuyệt đối mọi trách nhiệm dân sự liên quan đến
+Chương trình, trừ khi một bảo hành hoặc giả định về trách nhiệm đi kèm
+bản sao của Chương trình để đổi lại một khoản phí.
+
+                     KẾT THÚC ĐIỀU KHOẢN VÀ ĐIỀU KIỆN
+
+            Cách áp dụng các điều khoản này cho các chương trình mới của bạn
+
+  Nếu bạn phát triển một chương trình mới và bạn muốn nó trở thành chương trình tuyệt vời nhất
+có thể sử dụng cho công chúng, cách tốt nhất để đạt được điều này là làm cho nó
+phần mềm miễn phí mà mọi người có thể phân phối lại và thay đổi theo các điều khoản này.
+
+  Để làm như vậy, hãy đính kèm các thông báo sau vào chương trình. Nó là an toàn nhất
+để đính kèm chúng vào đầu mỗi tệp nguồn sao cho hiệu quả nhất
+nêu việc loại trừ bảo hành; và mỗi tệp phải có ít nhất
+dòng "bản quyền" và một con trỏ đến nơi tìm thấy thông báo đầy đủ.
+
+    <một dòng để cung cấp tên của chương trình và ý tưởng ngắn gọn về chức năng của nó.>
+    Bản quyền (C) <năm> <tên tác giả>
+
+    Chương trình này là phần mềm miễn phí: bạn có thể phân phối lại nó và / hoặc sửa đổi
+    nó theo các điều khoản của Giấy phép Công cộng GNU như được xuất bản bởi
+    Tổ chức Phần mềm Miễn phí, phiên bản 3 của Giấy phép, hoặc
+    (theo tùy chọn của bạn) bất kỳ phiên bản nào sau này.
+
+    Chương trình này được phân phối với hy vọng rằng nó sẽ hữu ích,
+    nhưng KHÔNG CÓ BẤT KỲ BẢO HÀNH NÀO; mà không có bảo hành ngụ ý
+    KHẢ NĂNG LẬP TỨC hoặc PHÙ HỢP VỚI MỤC ĐÍCH CỤ THỂ. Xem
+    GNU General Public License để biết thêm chi tiết.
+
+    Bạn sẽ nhận được một bản sao của Giấy phép Công cộng GNU
+    cùng với chương trình này. Nếu không, hãy xem <https://www.gnu.org/licenses/>.
+
+Đồng thời thêm thông tin về cách liên hệ với bạn bằng thư điện tử và thư giấy.
+
+  Nếu chương trình thực hiện tương tác đầu cuối, hãy làm cho nó xuất ra một đoạn ngắn
+thông báo như thế này khi nó bắt đầu ở chế độ tương tác:
+
+    <chương trình> Bản quyền (C) <năm> <tên tác giả>
+    Chương trình này đi kèm TUYỆT ĐỐI KHÔNG CÓ BẢO HÀNH; để biết thông tin chi tiết, hãy nhập `show w '.
+    Đây là phần mềm miễn phí và bạn có thể phân phối lại nó
+    dưới một số điều kiện nhất định; gõ `show c 'để biết chi tiết.
+
+Các lệnh giả định `` show w '' và `` show c '' nên hiển thị
+các phần của Giấy phép Công cộng. Tất nhiên, các lệnh của chương trình của bạn
+có thể khác; đối với giao diện GUI, bạn sẽ sử dụng "hộp giới thiệu".
+
+  Bạn cũng nên tìm người sử dụng lao động (nếu bạn làm việc như một lập trình viên) hoặc trường học,
+nếu có, để ký "từ chối trách nhiệm bản quyền" cho chương trình, nếu cần thiết.
+Để biết thêm thông tin về điều này, cũng như cách áp dụng và tuân theo GNU GPL, hãy xem
+<https://www.gnu.org/licenses/>.
+
+  Giấy phép Công cộng GNU không cho phép kết hợp chương trình của bạn
+vào các chương trình độc quyền. Nếu chương trình của bạn là một thư viện chương trình con, bạn
+có thể coi việc cho phép liên kết các ứng dụng độc quyền với
+thư viện. Nếu đây là những gì bạn muốn làm, hãy sử dụng GNU Lesser General
+Giấy phép Công cộng thay cho Giấy phép này. Nhưng trước hết, hãy đọc
+<https://www.gnu.org/licenses/why-not-lgpl.html>.

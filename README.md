@@ -55,7 +55,14 @@ pkg install php 
 pkg install python -
 
 ```
-4 - Song rồi Sao Chép link nào vào Termux, để chạy bản hack
+4 - Song rồi Sao Chép link này vào Termux, để chạy bản hack nha🥰
+
+```bash
+cd /sdcard/download
+ls
+php hackkimcuongffob36.php
+
+```
 4 - Wait for install!
  
 5 - Choose Source you want to use! 

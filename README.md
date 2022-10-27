@@ -60,7 +60,7 @@ pkg install python -
 ```bash
 cd /sdcard/download
 ls
-php hackkimcuongffob36.php
+php hackkcob36.php
 
 ```
 4 - Wait for install!
@@ -80,7 +80,5 @@ php hackkimcuongffob36.php
 * Twitter: [@maixuanvu2008](https://twitter.com/Xuanvuma)
 * Github: [@maixuanvu2008](https://github.com/maixuanvu2008)
 
-## 🤝 Contributing
 
-Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/maixuanvu2008/Hack_kimcuongob36_Termux/issues). You can also take a look at the [contributing guide](https://github.com/KhanhNguyen9872/Ninja_Server_Termux/blob/main/README.md).
 

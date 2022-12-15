@@ -1,4 +1,5 @@
-<h1 align="center">Welcome to Hack_FFOB36_Termux 👋</h1>
+<h1 align="center">Welcome to Hack_FFOB36_Termux 👋
+Đang Cập nhập..!</h1>
 <img alt="Homepage" src="https://raw.githubusercontent.com/maixuanvu2008/Hack_kimcuongob36_Termux/main/h%C3%ACnh%20%E1%BA%A3nh/Screenshot_20221027-161359_Termux.jpg" />
 
 <p>
